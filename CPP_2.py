@@ -19,12 +19,12 @@ print(mylist)
 
 mylist = ["prashant", "sachin", "rohit", "virat", "dhoni", 77, 88, 99, 100, "sandeep", 60.52]
 
-mylist.append('shreyas)
-mylist.append("shreyas_rananaware")
+mylist.append('ojas)
+mylist.append("ojas_amru")
 print(mylist)
-mylist.insert(2, "rananaware")
+mylist.insert(2, "amru")
 print(mylist)
-mylist.remove("rananaware")
+mylist.remove("amru")
 print(mylist)
 newList = mylist.copy()
 print(newList)    
@@ -44,13 +44,13 @@ print(crazylist[2][2])
 
 
 
-list1=["Shreyas","Rananaware"]
+list1=["Ojas","Amru"]
 print(list1*2)
 
 list2=[50,25.50]
 print(list1+list2)
 
-list1.remove("Rananaware")
+list1.remove("Amru")
 print(list1)
 
 list1.clear()
@@ -97,7 +97,7 @@ print(id(mylist))
 print(id(mylist1))
 
 
-name='Shreyas'
+name='Ojas'
 print('Z' in name)
 print('K' in name)
 
