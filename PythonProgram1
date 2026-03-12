@@ -1,6 +1,6 @@
 math = 40
 pi = 3.14
-name = 'Kshitij Panday'
+name = 'Ojas Amru'
 print(type(math))
 print(type(pi))
 print(type(name))
